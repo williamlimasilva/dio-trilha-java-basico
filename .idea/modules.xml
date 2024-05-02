@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/conta-banco/conta-banco.iml" filepath="$PROJECT_DIR$/conta-banco/conta-banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controle-candidatos/controle-candidatos.iml" filepath="$PROJECT_DIR$/controle-candidatos/controle-candidatos.iml" />
       <module fileurl="file://$PROJECT_DIR$/controle-fluxo/controle-fluxo.iml" filepath="$PROJECT_DIR$/controle-fluxo/controle-fluxo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" filepath="$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-comentarios/java-comentarios.iml" filepath="$PROJECT_DIR$/java-comentarios/java-comentarios.iml" />
