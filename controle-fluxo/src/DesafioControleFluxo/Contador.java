@@ -32,7 +32,7 @@ public class Contador {
         for (int i = 0; i < contagem; i++) {
             System.out.println("Imprimindo o número : "+(i+1));
         }
-        System.out.printf("\nIMPRESSO UM TOTAL DE %d INTERAÇÕES... \n", contagem);
+        System.out.printf("%nIMPRESSO UM TOTAL DE %d INTERAÇÕES... %n", contagem);
 
     }
 }
