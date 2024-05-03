@@ -47,4 +47,3 @@ public class SimulacaoBancaria {
         }while (opcao != 0);
     }
 }
-
